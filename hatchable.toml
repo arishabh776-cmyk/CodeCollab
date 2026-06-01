@@ -1,0 +1,4 @@
+[ai]
+required = true
+pin = "google"
+description = "Google AI Studio key — used for the AI Assistant (explain, debug, optimize code)."
